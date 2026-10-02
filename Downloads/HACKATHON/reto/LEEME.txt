@@ -1,0 +1,5 @@
+Prueba de selección UTSmart IA Challenge 2026
+Categoría: medio
+
+Lean primero el archivo Reto_medio_prueba_seleccion_2oct.pdf.
+Los datos están en la carpeta datos. Son datos simulados para la prueba, no registros oficiales.
